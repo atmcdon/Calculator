@@ -1,0 +1,10 @@
+C:\dev\T200\Calculator2\bin\Release\Calculator2.exe.config
+C:\dev\T200\Calculator2\bin\Release\Calculator2.exe
+C:\dev\T200\Calculator2\bin\Release\Calculator2.pdb
+C:\dev\T200\Calculator2\obj\Release\Calculator2.csproj.AssemblyReference.cache
+C:\dev\T200\Calculator2\obj\Release\Calculator.Calculator.resources
+C:\dev\T200\Calculator2\obj\Release\Calculator2.Properties.Resources.resources
+C:\dev\T200\Calculator2\obj\Release\Calculator2.csproj.GenerateResource.cache
+C:\dev\T200\Calculator2\obj\Release\Calculator2.csproj.CoreCompileInputs.cache
+C:\dev\T200\Calculator2\obj\Release\Calculator2.exe
+C:\dev\T200\Calculator2\obj\Release\Calculator2.pdb
